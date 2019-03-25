@@ -1,10 +1,10 @@
 {
-  "name":         "pixel-ping",
-  "description":  "A minimalist pixel tracker.",
+  "name":         "genoa-pixel-ping",
+  "description":  "A minimalist pixel tracker. Edited by Genoa Team. Thanks to @danielbeardsley",
   "homepage":     "http://github.com/documentcloud/pixel-ping",
   "keywords":     ["javascript", "server", "tracking"],
-  "author":       "Jeremy Ashkenas and Jeff Larson",
-  "version":      "0.1.4",
+  "author":       "Jeremy Ashkenas and Jeff Larson (edited by Genoa TEAM, thanks to @danielbeardsley)",
+  "version":      "1.0.0",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/documentcloud/pixel-ping/raw/master/LICENSE"
