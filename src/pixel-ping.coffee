@@ -56,7 +56,7 @@ flush = ->
   endReqOpts['headers']['Content-Length'] = data.length
   request = http.request endReqOpts, (res) ->
     if isSuccess(res)
-      console.info '--- flushed ---'
+      console.info '--- flushed (genoa version) ---'
     else
       onError "--- flush failed with code:" + res.statusCode
   request.on 'error', (e) ->
